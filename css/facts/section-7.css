@@ -241,7 +241,7 @@
       .section-facts-7 .block-2-section-7 .section-7-img-bckgr .blue-color {
         background-color: #BEE8ED; }
       .section-facts-7 .block-2-section-7 .section-7-img-bckgr .pdng-tab-section {
-        margin-top: 20px !important; }
+        margin-top: -1.3vw!important; }
       .section-facts-7 .block-2-section-7 .section-7-img-bckgr .tabcontent-section-7 {
         width: 22.5vw;
         display: flex;
@@ -253,8 +253,8 @@
         animation: fadeEffect 1s; }
         .section-facts-7 .block-2-section-7 .section-7-img-bckgr .tabcontent-section-7 p {
           width: 26vw;
-          font-size: 0.9vw;
-          font-weight: 600;
+          font-size: 1vw;
+          font-weight: 500;
           line-height: 1.5;
           padding: 1.5vw;
           margin-left: 0.8vw;
