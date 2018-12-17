@@ -180,8 +180,9 @@
         border-collapse: collapse;
         background-color: #e2efd6;
         padding: 0;
+        margin-top: -2vw;
         padding-right: 7px;
-        margin-left: 0px;
+        margin-left: 0.89vw;
         -webkit-box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75);
         -moz-box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75);
         box-shadow: 10px 10px 41px 0px rgba(151, 153, 155, 0.75); }
@@ -196,6 +197,8 @@
           background-color: #e2efd6;
           width: 45vw;
           padding-right: 4vw;
+          margin-top: 1vw;
+          margin-bottom: 1vw;
           }
       .section-facts-5 .block-2-section-5 .text-block-tab table th {
           font-size: 1.3vw;
@@ -225,8 +228,8 @@
 
       .section-facts-5 .block-2-section-5 .text-block-tab table td {
         font-size: 1.4vw;
-        padding-top: 4.5vw;
-        padding-bottom: 6.1vw;
+        padding-top: 0.5vw;
+        padding-bottom: 2.1vw;
         font-family: 'Open Sans';
         color: #2f3031;}
       .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal {
@@ -246,14 +249,14 @@
         }
 
         .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal div {
-          width: 30.2vw;
+          width: 32.2vw;
           height: auto;
     }
     .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal .div2 {
-          width: 113vw;
           padding-left: 3vw;
+          padding-top: 0.5vw;
           line-height: 1.4;
-  
+          font-size: 1.24vw;
     }
 
         /* .section-facts-5 .block-2-section-5 .text-block-tab table .text-normal div p {
@@ -261,7 +264,8 @@
       .section-facts-5 .block-2-section-5 .text-block-tab .tab {
         display: flex;
         flex-direction: column;
-        margin-left: 4vw; }
+        margin-left: 2.6vw;
+        margin-top: -1.8vw;}
         .section-facts-5 .block-2-section-5 .text-block-tab .tab li:hover {
           box-shadow: 0 2px 4px rgba(50, 50, 93, 0.1); }
         .section-facts-5 .block-2-section-5 .text-block-tab .tab li {

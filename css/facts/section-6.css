@@ -127,9 +127,9 @@
    }
 
   .section-facts-6 .block-1-section-6 .critical_comp p {
-    width: 40.1vw;
+    width: 40vw;
     margin-top: 15.7vw;
-    margin-left: 9vw;
+    margin-left: 9.5vw;
     }
   .section-facts-6 .block-1-section-6 #bckgr-section-6 {
     width: 100vw;
@@ -232,12 +232,13 @@
       background-color: #c8c4bf;
       transform: rotate(5deg);
       margin-left: 4vw;
-      width: 94%; }
+      width: 90%; }
 
       .section-facts-6 .block-2-section-6 .paper-2 p {
-        font-size: 1.03vw;
+        font-size: 1.1vw;
         padding-top: 0.75vw;
         padding-left: 0.4vw;
+        color: black;
       }
     .section-facts-6 .block-2-section-6 .paper-2 {
       background-color: #ffffff;
@@ -283,7 +284,7 @@
       display: flex;
       flex-direction: column;
       margin-top: -0.8vw;
-      margin-left: 3.5vw;}
+      margin-left: 1.5vw;}
       .section-facts-6 .block-2-section-6 .tab-block-6 li:hover {
         box-shadow: 0 2px 4px rgba(50, 50, 93, 0.1); }
       .section-facts-6 .block-2-section-6 .tab-block-6 li {
@@ -299,7 +300,7 @@
         font-weight: bold;
         font-family: 'Open Sans'; }
       .section-facts-6 .block-2-section-6 .tab-block-6 li.active {
-        width: 22vw !important;
+        width: 23vw !important;
         padding: 0.31vw;
         background: #fff;
         border-radius: 2px;
